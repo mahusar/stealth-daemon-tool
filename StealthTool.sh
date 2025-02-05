@@ -42,9 +42,9 @@ echo Welcome!
 #website: https://stealth.org
 #setting up staker: https://github.com/Stealth-R-D-LLC/Stealth/wiki/Setting-Up-a-StealthNode
 #
-#                         ### This is not official tool,please use it wisely! ###                                                      
-#name: StealthTool #version: 0.5
-#dev: magus4r
+#                         ### This is not an official tool. Please use it wisely! ###                                                      
+#name: StealthTool #version: 0.5a
+#dev: mahusar
 #                                           ++ STEALTHOVERLORDS ++                                        
 
 command -v jq >/dev/null 2>&1 || { echo >&2 "This tool require jq but it's not installed (i.e. yum install jq). Aborting."; exit 1; }
