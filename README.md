@@ -1,11 +1,11 @@
 Ubuntu 22.04
 
-HOWTO:
+Howto:
 - git clone https://github.com/mahusar/stealth-daemon-tool.git
 - cd stealth-daemon-tool
 - cp stealth-daemon-tool.sh ~/.StealthCoin/
 - cd ~/.StealthCoin
-- chmod +x StealthTool.sh
+- chmod +x stealth-daemon-tool.sh
 - apt-get install jq
 - pwd (/yourpath)
 - nano stealth-daemon-tool.sh
